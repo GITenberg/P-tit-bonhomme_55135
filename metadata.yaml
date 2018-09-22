@@ -15,6 +15,9 @@ contributor:
     wikipedia:
     - http://fr.wikipedia.org/wiki/L%C3%A9on_Benett
     - http://en.wikipedia.org/wiki/L%C3%A9on_Benett
+covers:
+- cover_type: archival
+  image_path: 55135-h/images/cover.jpg
 creator:
   author:
     agent_name: Verne, Jules
@@ -31,6 +34,8 @@ creator:
     - http://en.wikipedia.org/wiki/Jules_Verne
     - http://pt.wikipedia.org/wiki/Júlio_Verne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55135#P-tit-bonhomme
 gutenberg_bookshelf:
 - FR Illustrateurs
 - FR Littérature
